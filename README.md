@@ -1,6 +1,6 @@
 # About
 
-This branch contains the generated sources for my personal web site. You can either [view it online](http://4gtechno.github.io/) or [browse the generator source code](https://github.com/4gtechno/4gtechno.github.io/).
+This branch contains the generated sources for my personal web site. You can either [view it online](http://4gtechno.github.io/) or [browse the generator source code](https://github.com/4gtechno/4gtechno.github.io/tree/source).
 
 # License
 
