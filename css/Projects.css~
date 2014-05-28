@@ -1,6 +1,10 @@
 @import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700);
 body {
+<<<<<<< HEAD:css/Projects.css~
   background: url("/img/bg-Projects.jpg") no-repeat center center fixed;
+=======
+  background: url("/img/bg-Projects.png") no-repeat center center fixed;
+>>>>>>> 763573cf304bf443cb2634571317615f262ab7a3:css/Projects.css
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
